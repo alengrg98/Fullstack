@@ -2,6 +2,10 @@
     color:blue;
 
 }
+.newdiv{
+    border: 30px solid orangered;
+    
+}
 body{
     background: url('../2.jpg');
 }
